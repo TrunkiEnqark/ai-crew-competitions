@@ -1,0 +1,10 @@
+[package]
+name = "mnist_classifier"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+csv = "1.1"
+ndarray = "0.16.1"
+ndarray-stats = "0.6.0"
+rand = "0.8"
